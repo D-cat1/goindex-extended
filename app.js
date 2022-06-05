@@ -5560,6 +5560,10 @@
     );
   
   document.write(
+      `<style>.nexmoe-nav {background-color: ${nav_style_colors[UI.accent_color]["background-color"]}!important; color: ${nav_style_colors[UI.accent_color]["color"]}!important}</style>`
+    );
+
+  document.write(
     "<style>.dummyclass3{max-width: 570px}@media screen and (max-width:980px){.dummyclass3{display:none}}</style>"
   );
   
@@ -5569,7 +5573,7 @@
       `mdui-theme-primary-${UI.main_color} mdui-theme-accent-${UI.accent_color}`
     );
     var html = `
-    <header class="nexmoe-nav" style=background-color: ${nav_style_colors[UI.accent_color]["background-color"]}>
+    <header class="nexmoe-nav">
 	<div class="navSize">
 			<a href="/"><img class="avatar" src="${UI.avatar}"/></a>
 			<div class="nav_menu"  style="display:block">
