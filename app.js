@@ -5573,8 +5573,8 @@
 			<a href="/"><img class="avatar" src="${UI.avatar}"/></a>
 			<div class="nav_menu"  style="display:block">
 				<ul class="menu_ul">
-					<li class="menu_li"><a href="" target="_blank">Contact</a></li>
-					<li class="menu_li"><a href="https://github.com/sawankumar/Google-Drive-Index" target="_blank">Github</a></li>
+					<li class="menu_li"><a href="" target="_blank">Registrasi</a></li>
+					<li class="menu_li"><a href="https://pksman2kk.my.id" target="_blank">Official Site</a></li>
 				</ul>
 				<div class="nav_icon" ></div>
 			</div>
