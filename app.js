@@ -5496,7 +5496,7 @@
   }
   if (UI.dark_mode) {
     document.write(
-      '<link rel="stylesheet" href="//rawcdn.githack.com/D-cat1/goindex-extended/a88abce3bf16b6060731a676ffa0f1c34d2ee59e/css/nexmoe_v2_dark.min.css">'
+      '<link rel="stylesheet" href="//rawcdn.githack.com/D-cat1/goindex-extended/616c4d172629a69d0a3909c9398dec3d524943ad/css/nexmoe_v2_dark.min.css">'
     );
   } else {
     document.write(
