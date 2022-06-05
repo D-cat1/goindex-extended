@@ -5568,7 +5568,7 @@
       `mdui-theme-primary-${UI.main_color} mdui-theme-accent-${UI.accent_color}`
     );
     var html = `
-    <header class="nexmoe-nav" style="background-color:#1E252F">
+    <header class="nexmoe-nav">
 	<div class="navSize">
 			<a href="/"><img class="avatar" src="${UI.avatar}"/></a>
 			<div class="nav_menu"  style="display:block">
